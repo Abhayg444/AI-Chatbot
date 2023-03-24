@@ -1,5 +1,5 @@
-# Serenity
-Serenity is AI powered chatbot using python , tensorflow, numpy and nltk
+# Serenity 2.0
+Serenity 2.0 is AI powered chatbot using python , tensorflow, numpy and nltk
 Serenity is an AI powered chatbot that is built using the Python programming language, along with the TensorFlow, NumPy, and NLTK libraries.
 
 The chatbot uses natural language processing (NLP) and machine learning (ML) techniques to understand and generate human-like responses. The TensorFlow library is used for building and training the chatbot's neural network, while the NumPy library is used for numerical computations and array manipulation. The NLTK library is used for natural language processing tasks such as tokenization, stemming, and lemmatization.
